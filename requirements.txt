@@ -1,0 +1,4 @@
+translate==3.6.1
+pyjokes==0.6.0
+requests==2.31.0
+Wikipedia-API==0.6.0
